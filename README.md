@@ -1,2 +1,2 @@
-# Housing--Price-Predictions
+# Housing-Price-Predictions
 Akbank Machine Learning Bootcamp
